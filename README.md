@@ -2,8 +2,8 @@
 
 ## Документы
 * [План автоматизации](https://github.com/captainchaan/Diplom/blob/main/Plan.md)
-* [Отчет по итогам тестирования](.)
-* [Отчет по итогам автоматизации](.)
+* [Отчет по итогам тестирования](https://github.com/captainchaan/Diplom/blob/main/docs/Report.md)
+* [Отчет по итогам автоматизации](https://github.com/captainchaan/Diplom/blob/main/docs/Summary.md)
 
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
