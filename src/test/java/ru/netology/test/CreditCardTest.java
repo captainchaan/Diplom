@@ -59,7 +59,7 @@ public class CreditCardTest {
         var creditCardPage = page.creditPayment();
         creditCardPage.fillCardPaymentForm(declinedCardNumber, validMonth, validYear, validOwnerName, validCode);
         creditCardPage.bankDeclinedOperation();
-        assertEquals("Declined", SQLHelper.getCreditPayment());
+        assertEquals("DECLINED", SQLHelper.getCreditPayment());
     }
     ///НОМЕР КАРТЫ
     @Test
