@@ -46,7 +46,7 @@ public class DebitCardTest {
         var debitCardPage = page.cardPayment();
         debitCardPage.fillCardPaymentForm(approvedCardNumber, validMonth, validYear, validOwnerName, validCode);
         debitCardPage.bankApprovedOperation();
-        assertEquals("APPROVED", SQLHelper.getCreditPayment());
+        assertEquals("APPROVED", SQLHelper.getCardPayment());
     }
 
     @Test
@@ -58,7 +58,7 @@ public class DebitCardTest {
         var debitCardPage = page.cardPayment();
         debitCardPage.fillCardPaymentForm(declinedCardNumber, validMonth, validYear, validOwnerName, validCode);
         debitCardPage.bankDeclinedOperation();
-        assertEquals("Declined", SQLHelper.getCreditPayment());
+        assertEquals("Declined", SQLHelper.getCardPayment());
     }
     ///НОМЕР КАРТЫ
     @Test

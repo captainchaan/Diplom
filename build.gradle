@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'io.freefair.lombok' version "5.3.0"
+    id 'io.freefair.lombok' version "8.12.1"
     id 'io.qameta.allure' version '2.10.0'
 }
 
