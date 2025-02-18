@@ -22,7 +22,8 @@
 
 Соотношение успешных/неуспешных тестов: 30/22
 
-![image](https://github.com/user-attachments/assets/db180e5d-fc2b-4ef4-872b-b237588e9229)
+![image](https://github.com/user-attachments/assets/26b9dcfd-4a8b-42dd-b650-46eed5536128)
+
 
 
 **Общие рекомендации**
