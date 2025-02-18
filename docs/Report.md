@@ -22,7 +22,8 @@
 
 Соотношение успешных/неуспешных тестов: 30/22
 
-![AllureReport](http://joxi.ru/rJjD754teRyG8r)
+![image](https://github.com/user-attachments/assets/db180e5d-fc2b-4ef4-872b-b237588e9229)
+
 
 **Общие рекомендации**
 
